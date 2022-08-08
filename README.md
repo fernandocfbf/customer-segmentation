@@ -1,1 +1,2 @@
-# customer-segmentation
+# Customer segmentation
+-> status: development ⚠️
